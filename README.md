@@ -6,12 +6,9 @@ You can find more, albeit ancient, information about Conor Evans and the lab at 
 
 This page will be updated in the future, largely whenever Conor finds the time. 
 
-[Link](url) and ![Image](src)
-
-
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see about buiding a page like this see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
