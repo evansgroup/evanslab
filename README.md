@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to the Evans Lab!
 
-You can use the [editor on GitHub](https://github.com/evansgroup/testing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the future site of the Evans Lab code public code repository. The Evans is a translational research laboratory at the Wellman Center of Photomedicine of Harvard Medical School and Massachusetts General Hosptial. We aim to solve important problems in human health using unique combination of chemistry, engineering, physics, and computer science. 
+
+You can find more, albeit ancient, information about Conor Evans and the lab at our super-old [website](http://wellman.massgeneral.org/faculty-evans-pi.htm)
+
+This page will be updated in the future, largely whenever Conor finds the time. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
