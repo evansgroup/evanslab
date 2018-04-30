@@ -1,6 +1,6 @@
 ## Welcome to the Evans Lab!
 
-This is the future site of the Evans Lab code public code repository. The Evans is a translational research laboratory at the Wellman Center of Photomedicine of Harvard Medical School and Massachusetts General Hosptial. We aim to solve important problems in human health using unique combination of chemistry, engineering, physics, and computer science. 
+This is the future site of the Evans Lab code public code repository. The Evans is a translational research laboratory at the Wellman Center of Photomedicine of Harvard Medical School and Massachusetts General Hosptial. We aim to solve important problems in human health using a unique combination of chemistry, engineering, physics, and computer science. 
 
 You can find more, albeit ancient, information about Conor Evans and the lab at our super-old [website](http://wellman.massgeneral.org/faculty-evans-pi.htm)
 
